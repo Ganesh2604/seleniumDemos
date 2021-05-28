@@ -6,3 +6,6 @@ cucumber
 junit
 pom
 maven
+page object model
+data object model
+

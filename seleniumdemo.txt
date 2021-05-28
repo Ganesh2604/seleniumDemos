@@ -4,3 +4,5 @@ Java
 selenium TestNg
 cucumber
 junit
+pom
+maven
